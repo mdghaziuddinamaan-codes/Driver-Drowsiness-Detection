@@ -59,7 +59,7 @@ When drowsiness is detected, the system sends a signal to an Arduino Uno, which 
 
 ## 📁 Project Files
 
-- `Driver_Sleep_Detection_System_Arduino (2).ino` – Arduino program
+- `Driver_Sleep_Detection_System_Arduino.ino` – Arduino program
 - `drowsiness_detector_python.py` – Python program
 - `README.md` – Project documentation
 
