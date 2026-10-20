@@ -63,6 +63,10 @@ When drowsiness is detected, the system sends a signal to an Arduino Uno, which 
 - `drowsiness_detector_python.py` – Python program
 - `README.md` – Project documentation
 
+- ## 📸 Project Setup
+
+![Driver Drowsiness Detection System](Driver-Drowsiness-Detection.png)
+
 ## 👨‍💻 Developer
 
 **Md Ghaziuddin Amaan**  
